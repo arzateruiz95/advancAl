@@ -8,7 +8,67 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/advance/al/bfs/BreadthFirstSearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/advance/al/bfs/Vertex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/advance/app/BfsMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/advance/util/ReadFileUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/advance/util/ReadFileUtilSpec.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/ao-services/build.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/ao-services/src/main/groovy/com/citibanamex/ao/expediente/services/UploadDocumentsService.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/ao-services/src/main/resources/com/citibanamex/ao/config/services/json-configuration-service-data-aop.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/ao-services/src/main/resources/com/citibanamex/ao/expediente/services/upload-documents-service-svc-def.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/ao-services/src/test/groovy/com/citibanamex/ao/expediente/services/UploadDocumentsServiceSpec.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/ao-services/src/test/resources/com/citibanamex/ao/expediente/services/formXmlNonUsPerson.xml">
           <value>
             <set />
           </value>
