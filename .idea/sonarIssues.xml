@@ -38,12 +38,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/advance/al/dfs/DepthFirstSearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/advance/al/dfs/Vertex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/advance/app/BfsMain.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/advance/app/CrawletBfsMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/advance/app/Dfs.java">
           <value>
             <set />
           </value>
@@ -63,7 +78,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../git/ao-services/src/main/groovy/com/citibanamex/ao/expediente/services/AltaLigaImagenesCi.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/ao-services/src/main/groovy/com/citibanamex/ao/expediente/services/CloseRecord.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../git/ao-services/src/main/groovy/com/citibanamex/ao/expediente/services/UploadDocumentsService.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/ao-services/src/main/groovy/com/citibanamex/commons/FluentServiceEnum.groovy">
           <value>
             <set />
           </value>
